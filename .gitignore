@@ -56,7 +56,7 @@ datasets.ipynb
 # Data / Model Artifacts
 # ============================
 # Large AI/ML files should NOT be committed.
-data/
+datas/
 datasets/
 *.csv
 *.tsv
