@@ -1,1 +1,0 @@
-# Compatika-V1-alpha-ai-model-in-2-4-MB-dataset-and-1m-param
