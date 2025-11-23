@@ -59,6 +59,7 @@ datasets.ipynb
 data/
 datas/
 datasets/
+rowdata/
 *.csv
 *.tsv
 *.jsonl
@@ -71,7 +72,7 @@ datasets/
 *.joblib
 *.ckpt
 *.pt
-*.pth
+*.rowdata
 *.onnx
 *.tflite
 *.pb
